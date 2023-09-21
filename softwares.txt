@@ -1,0 +1,23 @@
+visual paradigm  	Visual paradigm ce 17.0
+
+oracle xe11g		oracle xe11g
+
+oracle SQL		oracle SQL
+
+notepad++        	notepad++
+
+java se 8 & 11
+
+java se kit
+
+eclipe			 eclipse
+
+mongo DB		mongo DB community
+
+visual studio code	vs code
+
+Spring frame work	spring frame work
+
+sts			Spring Tool Suite 4.18.0
+
+tomcat webserver     tomcat webserver
